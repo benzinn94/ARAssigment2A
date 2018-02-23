@@ -35,4 +35,4 @@ sysinfo.txt
 *.unitypackage
 
 #Folders
-OpenCVForUnity/
+Assets/OpenCVForUnity/*
